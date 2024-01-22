@@ -5,7 +5,7 @@ export default function About() {
     <Page>
       <div class="shrink-0 w-[500px] grid grid-cols-[7rem,_1fr] rounded-lg overflow-hidden relative">
         <img
-          src="/imgs/head-shots/16.jpg"
+          src="https://s3.brilliant.com.bd/brilliant-blog/6.jpg"
           alt="Testimonial image for Matthew I."
           class="w-full h-44 object-cover"
         />
